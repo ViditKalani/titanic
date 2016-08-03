@@ -21,6 +21,7 @@ In this exercise, we ask you to complete the analysis of what sorts of people we
 #Problem Statement
 Based on problem description, I decided to treat this as a classification problem by trying to predict the value of Survived variable for each instance.
 In order to finish this task and create a model to predict who survived or died? I will use following libraries:
+
     NumPy
     IPython
     Pandas
